@@ -1,4 +1,4 @@
-# CLI Youtube video Downloader
+# CLI YouTube video Downloader
 
 a tiny project made for personal use
 
