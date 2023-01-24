@@ -1,5 +1,5 @@
 # CLI Youtube video Downloader
 
-tiny little personal project 
+a tiny project made for personal use
 
 using [YoutubeExplore](https://github.com/Tyrrrz/YoutubeExplode)
