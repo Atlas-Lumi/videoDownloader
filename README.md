@@ -3,4 +3,4 @@
 a tiny project made for personal use
 (can also download shorts!!!)
 
-using [YoutubeExplore](https://github.com/Tyrrrz/YoutubeExplode)
+using [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode)
